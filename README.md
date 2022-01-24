@@ -21,4 +21,4 @@ cuando salga una ventanita de permisos de almacenamiento, darle a permitir.
 
 `bash requisitoswh.sh`
 
-<img src= https://github.com/WhBeatZ/RequisitosWh/blob/main/files/foto2.png width="119"/>
+<img src= https://github.com/WhBeatZ/RequisitosWh/blob/main/files/foto2.png width="500"/>
