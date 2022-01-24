@@ -20,3 +20,6 @@ cuando salga una ventanita de permisos de almacenamiento, darle a permitir.
 `chmod +x *`
 
 `bash requisitoswh.sh`
+
+href="https://github.com/WhBeatZ/RequisitosWh/blob/main/Screenshot_20220124-200902.png"
+
