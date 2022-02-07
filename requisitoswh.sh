@@ -18,6 +18,17 @@ verde="\e[1;32m"
 
 #banner / codigo
 
+
+ctrl_c INT /dev/null 2>&1
+
+ctrl_c() {
+echo
+echo
+echo -e "${rojo}Adiós :D
+sleep 3
+exit
+}
+
 clear
 
 sleep 0.3
