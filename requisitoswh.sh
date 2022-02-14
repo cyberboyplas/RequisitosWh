@@ -17,6 +17,7 @@ cyan="\e[1;36m"
 verde="\e[1;32m"
 
 #banner / codigo
+clear
 echo
 echo -e "$lila - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - "
 echo
