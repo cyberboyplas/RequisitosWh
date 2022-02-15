@@ -34,5 +34,3 @@ cuando salga una ventanita de permisos de almacenamiento, darle a permitir.
 `chmod +x *`
 
 `bash requisitoswh.sh`
-
-<img src= https://github.com/WhBeatZ/RequisitosWh/blob/main/files/image1.png width="500"/>
