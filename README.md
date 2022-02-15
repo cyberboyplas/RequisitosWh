@@ -1,6 +1,6 @@
 # - RequisitosWh -
 
-La mejor opción para instalar los repositorios mas necesarios, con distrubuciones como opciones de Termux o Debian.
+La mejor opción para instalar los repositorios mas necesarios, con distrubuciones como Termux o Debian.
 Programado por el famoso Hacker Sensei
 
 # - Instalación Termux-
