@@ -9,8 +9,6 @@ Programado por el famoso Hacker Sensei
 
 cuando salga una ventanita de permisos de almacenamiento, darle a permitir.
 
-`pkg install bash`
-
 `pkg install git`
 
 `git clone https://github.com/WhBeatZ/RequisitosWh.git`
