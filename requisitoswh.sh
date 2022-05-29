@@ -1,10 +1,9 @@
 #!/bin/bash
 
 #Programado por WhBeatZ
-#Mi Instagram --> WhBeatZ - https://www.instagram.com/whbeatz/
 #Mi Github --> WhBeatZ - https://github.com/WhBeatZ
 #Fecha 24/01/2022
-#Si vas a usar mi codigo como plantilla, mencioname :D. Para hacer colaboraciones, escribeme al ig --> WhBeatZ
+#If you're going to use my code as a template, mention me :D.
 
 
 #colores :D
@@ -482,16 +481,3 @@ case $opcion in
              exit
              ;;
 esac
-
-#Mi insta WhBeatZ
-
-
-
-
-
-
-
-
-
-
-
