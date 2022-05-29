@@ -1,13 +1,14 @@
 # - RequisitosWh -
 
-La mejor opción para instalar los repositorios mas necesarios, con distrubuciones como Termux o Debian.
-Programado por el famoso Hacker Sensei
+The best option to install the most necessary repositories, with distributions like Termux or Debian.
 
-# - Instalación Termux-
+Programmed by famous Hacker Sensei.
+
+# - INSTALLATION IN TERMUX-
 
 `termux-setup-storage`
 
-cuando salga una ventanita de permisos de almacenamiento, darle a permitir.
+when a storage permissions window pops up, hit allow
 
 `pkg install git`
 
@@ -21,7 +22,7 @@ cuando salga una ventanita de permisos de almacenamiento, darle a permitir.
 
 <img src= https://github.com/WhBeatZ/RequisitosWh/blob/main/files/image1.png width="500"/>
 
-# - Instalación Debian -
+# - INSTALLATION IN DEBIAN-
 
 `apt install git`
 
