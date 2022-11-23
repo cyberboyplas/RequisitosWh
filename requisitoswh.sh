@@ -1,7 +1,6 @@
 #!/bin/bash
 
-#Programado por WhBeatZ
-#Mi Github --> WhBeatZ - https://github.com/WhBeatZ
+#Mi Github --> https://github.com/WhBeatZ
 #Fecha 24/01/2022
 #If you're going to use my code as a template, mention me :D.
 
@@ -32,7 +31,7 @@ echo -e "$cyan |_| \_\___|\__  |\__ _|_|___/_|\__\___/|___/  \_/\_/   |_| |_| "
 sleep 0.05
 echo -e "$blanco               |_|"
 echo
-echo -e "$cyan Programado por$amarillo :$blanco WhBeatZ  $cyan Mi insta$amarillo -->$blanco WhBeatZ  $rojo v2.0"
+echo -e "$cyan Programado por$amarillo :$blanco WhBeatZ  $cyan Mi insta$amarillo -->$blanco        $rojo v2.0"
 echo
 echo -e "$lila - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - "
 sleep 0.05
@@ -154,7 +153,7 @@ case $opcion in
              echo
              clear
              sleep 1
-             echo -e "${amarillo}La instalacion se completo perfectamente :D, no olvides seguirme en mi Instagram --> ${blanco}WhBeatZ"
+             echo -e "${amarillo}La instalacion se completo perfectamente :D"
              echo
              sleep 3
              exit
@@ -261,7 +260,7 @@ case $opcion in
              echo
              clear
              sleep 1
-             echo -e "${amarillo}La instalacion se completo perfectamente :D, no olvides seguirme en mi Instagram --> ${blanco}WhBeatZ"
+             echo -e "${amarillo}La instalacion se completo perfectamente :D"
              echo
              sleep 3
              exit
@@ -368,7 +367,7 @@ case $opcion in
              echo
              clear
              sleep 1
-             echo -e "${amarillo}La instalacion se completo perfectamente :D, no olvides seguirme en mi Instagram --> ${blanco}WhBeatZ"
+             echo -e "${amarillo}La instalacion se completo perfectamente :D"
              echo
              sleep 3
              exit
@@ -475,7 +474,7 @@ case $opcion in
              echo
              clear
              sleep 1
-             echo -e "${amarillo}La instalacion se completo perfectamente :D, no olvides seguirme en mi Instagram --> ${blanco}WhBeatZ"
+             echo -e "${amarillo}La instalacion se completo perfectamente :D"
              echo
              sleep 3
              exit
